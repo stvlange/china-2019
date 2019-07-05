@@ -4,13 +4,13 @@ timezone: America/Chicago
 collections:
   posts:
     title: Posts
-    output: true
+    output: false
   steps:
     title: Steps
     output: true
   uploads:
     title: Uploads
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
