@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
+description: China 2019 Trip
 baseurl: "/china-2019"
 url: http://stephenlange.org
 color: "#f2f2f2"
