@@ -1,5 +1,5 @@
 ---
-title: China 2019
+title: China 2019 Journal
 timezone: America/Chicago
 collections:
   posts:
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: China 2019 Trip
+description: China 2019 Journal
 baseurl: "/china-2019"
 url: http://stephenlange.org
 color: "#f2f2f2"
