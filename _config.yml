@@ -7,7 +7,7 @@ collections:
     output: true
   steps:
     title: Steps
-    output: false
+    output: true
   uploads:
     title: Uploads
     output: true
